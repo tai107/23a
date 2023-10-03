@@ -3,4 +3,4 @@
 # PERT
 ![PERT](PERT.jpg "PERT")
 # CPM
-![CPM](CPM.jpg "CPM")
+![CPM107](CPM107.jpg "CPM")
