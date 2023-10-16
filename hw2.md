@@ -4,3 +4,5 @@
 ![PERT](PERT.jpg "PERT")
 # CPM
 ![CPM107](CPM107.jpg "CPM")
+# 關鍵路徑
+![關鍵路徑](關鍵路徑.jpg "關鍵路徑")
